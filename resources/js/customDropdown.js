@@ -9,7 +9,7 @@
 
 	HTML required: 
 
-	<select id="customDropdownID" class="hpStyleDropdown">
+	<select id="customDropdownID" class="customDropdown">
 		<option value="val1"> Value 1</option>
 		<option value="val2"> Value 2</option>
 	</select>
